@@ -8,6 +8,7 @@ _Languages:_
 This project is about an tech test from an interview for junior/entry level react developer<br>
 Another person has made this form, but still somehow bugged and incomplete, my task was fix it and push to production asap<br>
 
+
 ### Instructions
 
 * You have an UNFINISHED login form
@@ -26,6 +27,8 @@ Another person has made this form, but still somehow bugged and incomplete, my t
 Besides completing those tasks above using `useState`:
 * I've used conditional rendering on the div that displays the error message
 * Used `onKeyDown` to acess the Login button to UX purposes<br>
+
+<img src="./src/gifs/readme.gif" alt="gif showing the form">
 
 #### Special Thanks
 I wanna thank to Fernandev, for making this challenge avaliable on his GitHub!<br>

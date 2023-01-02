@@ -27,6 +27,8 @@ Além de completar as tasks acima usando `useState`:
 * Eu usei renderização condicional na div que já estava preparada para mostrar a mensagem de erro
 * Implementei `onKeyDown` para fazer o login também usando a tecla Enter, para melhor UX<br>
 
+<img src="./src/gifs/readme.gif" alt="gif showing the form">
+
 #### Agradecimentos especiais
 Eu queria agracer o Fernandev, por disponibilizar esse desafio no seu GitHub!<br>
 https://github.com/nandokferrari/fernandev-react-challenge-02<br>
