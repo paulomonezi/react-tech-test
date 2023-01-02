@@ -26,10 +26,10 @@ export default function LoginForm() {
     setEmail(value)
   }
 
-  // const handlePassword = (event) => {
-  //   const { value } = event.target
-  //   setPassword(value)
-  // }
+  const handlePassword = (event) => {
+    const { value } = event.target
+    setPassword(value)
+  }
 
   // const handleSubmit = () => {
   //   setIsRequesting(true)
