@@ -31,20 +31,20 @@ export default function LoginForm() {
     setPassword(value)
   }
 
-  // const handleSubmit = () => {
-  //   setIsRequesting(true)
-  //   setError(null)
+  const handleSubmit = () => {
+    setIsRequesting(true)
+    setError(null)
 
-  //   let credentials = { email: email, password: password }
-  //   login(credentials)
-  //     .then(() => {
-  //       alert("Logged - Test Finished :)")
-  //     })
-  //     .catch((error) => {
-  //       setError(error)
-  //     })
-  //     .finally(() => setIsRequesting(false))
-  // }
+    let credentials = { email: email, password: password }
+    login(credentials)
+      .then(() => {
+        alert("Logged - Test Finished :)")
+      })
+      .catch((error) => {
+        setError(error)
+      })
+      .finally(() => setIsRequesting(false))
+  }
 
   return (
     <div className="wrapper">
