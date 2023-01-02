@@ -31,6 +31,6 @@ Besides completing those tasks above using `useState`:
 <img src="./src/gifs/readme.gif" alt="gif showing the form">
 
 #### Special Thanks
-I wanna thank to Fernandev, for making this challenge avaliable on his GitHub!<br>
+I wanna thank to [Fernandev](https://github.com/nandokferrari), for making this challenge avaliable on his GitHub!<br>
 https://github.com/nandokferrari/fernandev-react-challenge-02<br>
 If you want to try this out, you can clone the repository above, or just clone this repo at the initial commit
