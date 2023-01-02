@@ -2,7 +2,7 @@
 
 _Languages:_ 
 <br>
-- Also avaliable in English 👉 [Here](link)
+- Also avaliable in English 👉 [Here](https://github.com/paulomonezi/react-tech-test/blob/main/README.md)
 
 ## About
 Esse Projeto é sobre um teste técnico de uma entrevista para o cargo de desenvolvedor react júnior<br>

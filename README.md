@@ -2,7 +2,7 @@
 
 _Languages:_ 
 <br>
-- Também disponível em pt-BR aqui 👉 [Aqui](link)
+- Também disponível em pt-BR aqui 👉 [Aqui](https://github.com/paulomonezi/react-tech-test/blob/main/README.ptBR.md)
 
 ## About
 This project is about an tech test from an interview for junior/entry level react developer<br>
