@@ -2,7 +2,6 @@
   "name": "react-interview-challenge-02",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://paulomonezi.github.io/react-tech-test/",
   "type": "module",
   "scripts": {
     "dev": "vite",
